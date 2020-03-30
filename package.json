@@ -1,0 +1,15 @@
+{
+  "name": "aggregator-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "host.js",
+  "scripts": {
+    "start": "node host.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+	"request": "^2.88.2"
+  }
+}
